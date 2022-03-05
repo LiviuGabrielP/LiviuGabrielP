@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello!
 
 #### I am Gabriel, a 24 years old Electronics and Telecom student and R&D engineer.
 
@@ -7,8 +7,7 @@
 - 🏊 Swimmer
 - 🌱 I’m currently learning Android Development and Advanced Signal Processing 
 - 🤔 I’m looking for help with understanding Standards and Architectures for Software Development.
-- I am interested in Embedded Devices.
-- 
+- I am passionate about all technologies, especially Embedded Devices.
 <!--
 **LiviuGabrielP/LiviuGabrielP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
