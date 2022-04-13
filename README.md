@@ -3,7 +3,6 @@
 #### I am Gabriel, a 24 years old Electronics and Telecom student and R&D engineer.
 
 ##### About me:
-- :frog: Animal lover.
 - 🏊 Swimmer
 - 🌱 I’m currently learning Android Development and Advanced Signal Processing 
 - 🤔 I’m looking for help with understanding Standards and Architectures for Software Development.
