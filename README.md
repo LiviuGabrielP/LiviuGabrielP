@@ -1,9 +1,10 @@
-### Hello!
+## Hello!
 
 #### 
-- 🌱 I’m currently learning Android Development and Advanced Signal Processing 
-- 🤔 I’m looking for help with understanding Standards and Architectures for Software Development.
-- I am passionate about Embedded technologies.
+- Learning Native Android Development 
+- Passionate about Embedded technologies and IoT.
+- Working as Industrial Controls Engineer
+- EtherCAT enthusiast
 <!--
 **LiviuGabrielP/LiviuGabrielP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
