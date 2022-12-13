@@ -4,7 +4,7 @@
 - Learning Native Android Development 
 - Passionate about Embedded technologies and IoT.
 - Working as Industrial Controls Engineer
-- EtherCAT enthusiast
+- An EtherCAT enthusiast
 <!--
 **LiviuGabrielP/LiviuGabrielP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
