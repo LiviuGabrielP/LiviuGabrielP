@@ -3,8 +3,7 @@
 #### 
 - Learning Native Android Development 
 - Passionate about Embedded technologies and IoT.
-- Working as Industrial Controls Engineer
-
+- Working as an Automotive Software Integrator
 <!--
 **LiviuGabrielP/LiviuGabrielP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
